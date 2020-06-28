@@ -89,6 +89,7 @@ SSL cert is currently failing for `blog.colony.io`; will be removed permanently 
 #### Jobs
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.substack.com/) - Job board for blockchain jobs and cryptocurrency job.
 - [BEN Jobs](https://blockchainedu.org/jobs) - Job board by blockchain education network.
+- [Eth Hole](https://ethhole.com) - Ethereum and related developer jobs, learning resources, practice projects to help build a portfolio.
 
 
 ## Libraries
